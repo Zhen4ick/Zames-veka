@@ -1,0 +1,12 @@
+D:\Users\eugeny\Documents\Zames veka\Zames veka\bin\Debug\Zames veka.exe.config
+D:\Users\eugeny\Documents\Zames veka\Zames veka\bin\Debug\Zames veka.exe
+D:\Users\eugeny\Documents\Zames veka\Zames veka\bin\Debug\Zames veka.pdb
+D:\Users\eugeny\Documents\Zames veka\Zames veka\bin\Debug\Figgle.dll
+D:\Users\eugeny\Documents\Zames veka\Zames veka\bin\Debug\Figgle.xml
+D:\Users\eugeny\Documents\Zames veka\Zames veka\obj\Debug\Zames veka.csprojAssemblyReference.cache
+D:\Users\eugeny\Documents\Zames veka\Zames veka\obj\Debug\Zames_veka.Properties.Resources.resources
+D:\Users\eugeny\Documents\Zames veka\Zames veka\obj\Debug\Zames veka.csproj.GenerateResource.cache
+D:\Users\eugeny\Documents\Zames veka\Zames veka\obj\Debug\Zames veka.csproj.CoreCompileInputs.cache
+D:\Users\eugeny\Documents\Zames veka\Zames veka\obj\Debug\Zames veka.csproj.CopyComplete
+D:\Users\eugeny\Documents\Zames veka\Zames veka\obj\Debug\Zames veka.exe
+D:\Users\eugeny\Documents\Zames veka\Zames veka\obj\Debug\Zames veka.pdb
